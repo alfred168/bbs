@@ -1,0 +1,7 @@
+pre
+local-prefe
+手动汇总-自动汇总-对等体
+as-path
+igp>egp>imcompile
+med
+ebgp>ibgp
